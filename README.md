@@ -4,8 +4,7 @@ Welcome to my GitHub profile! I'm passionate about coding and love to explore ne
 
 ## 🔭 Current Projects
 
-- [https://github.com/19g9nd/MVVM-app]:MVVM app which is not ready yet.
-- [https://github.com/19g9nd/Zetflix]: Video streaming service which will get updated soon.
+-  Zeflix(https://github.com/19g9nd/Zetflix): Video streaming service which will get updated soon.
 
 ## 🌱 Skills
 
