@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about coding and love to explore ne
 
 ## 🔭 Current Projects
 
--  Zeflix(https://github.com/19g9nd/Zetflix): Video streaming service which will get updated soon.
+-  Zeflix (https://github.com/19g9nd/Zetflix): Video streaming service which will get updated soon.
 
 ## 🌱 Skills
 
