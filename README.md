@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about coding and love to explore ne
 ## 📫 How to Reach Me
 
 - Email: ahadova2017@gmail.com
-- LinkedIn: [https://az.linkedin.com/in/diana-ahadova-0003691b1]
+- LinkedIn: https://az.linkedin.com/in/diana-ahadova-0003691b1
 
 ## 💬 Let's Connect
 
