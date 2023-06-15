@@ -1,7 +1,4 @@
 # Hello, I'm Diana! 👋
-![c66d6207eee38f8b32c3265780790c51](https://github.com/19g9nd/19g9nd/assets/113902162/bd9f02fa-7839-4bec-a4db-84f5ee632df2)
-
-
 Welcome to my GitHub profile! I'm passionate about coding and love to explore new technologies. Here you'll find some of the projects I've been working on. Feel free to take a look and provide any feedback or suggestions.
 
 ## 🔭 Current Projects
