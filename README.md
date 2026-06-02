@@ -8,30 +8,39 @@
 </p>
 
 ## 🚀 About Me
-- 🧠 Curious builder who loves turning ideas into real projects  
-- ⚡ Into clean code, automation, and shipping fast  
-- 🌌 Always learning something new in tech  
-- 💻 Full-stack developer passionate about open source  
+- 🧠 Full-stack developer building scalable applications with C# and JavaScript  
+- ⚡ Experienced in mobile development with React Native and Next.js  
+- 🗄️ Database expert with PostgreSQL, MongoDB, and MSSQL  
+- 💻 Passionate about clean code, automation, and shipping fast  
+- 🌌 Always learning and exploring new technologies  
 
 ## 🧰 Toolbox
 
 ### Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### Databases & Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ### Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 💡 Skills
-- **Frontend**: React, JavaScript, TypeScript, HTML, CSS  
-- **Backend**: Node.js, Python, API Design  
+- **Frontend**: React, Next.js, React Native, JavaScript, TypeScript, HTML, CSS  
+- **Backend**: C#, Node.js, API Design, .NET  
+- **Databases**: PostgreSQL, MongoDB, MSSQL  
 - **DevOps**: Docker, Git, CI/CD  
 - **Other**: Problem solving, System Design, Open Source Contribution  
 
